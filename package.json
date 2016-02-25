@@ -1,0 +1,19 @@
+{
+  "name": "nodemail",
+  "version": "1.0.0",
+  "description": "Node.js + nodemailer",
+  "main": "nodemail",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "node",
+    "nodemailer",
+    "express"
+  ],
+  "author": "Richard Jara",
+  "license": "MIT",
+  "dependencies": {
+    "nodemailer": "^2.2.1"
+  }
+}
